@@ -1,0 +1,26 @@
+.headline  {
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(255, 255, 255);
+    font-size: 36px;
+    background-color: rgb(42, 77, 42);
+}
+.title {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 28px;
+    color: black;
+    font-weight: 500;
+}
+.list {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14px;
+}
+.pic {
+    height: 400px;
+    width: auto;
+}
+.home {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: white;
+    background-color: lightgray;
+}
